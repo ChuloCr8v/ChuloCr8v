@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChuloCr8v
-- 👀 I’m interested in being a fullstack developer by 2030
+- 👀 I’m interested in being a fullstack developer soon.
 - 🌱 I’m currently learning to buid my own portfolio with html and css while incorperating javascript in the near future as I advance
 - 💞️ I just want to learn 
 - 📫 You can reach me at Chulocr8v@gmail.com
