@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ChuloCr8v
-- 🛄 I am a front-end developer currently working with TailwindCss, Sass, JavaScript, React.js, Next.js, WordPress. 
+- 🛄 I am a front-end developer currently working with TailwindCss, Sass, JavaScript, React.js, Next.js, Node.js, Express.js. 
 - 👀 I’m interested in being a fullstack developer soon and currently working to achieve that.
-- 🌱 You can check out my portfolio site at https://devc.tech
+- 🌱 You can check out my portfolio site at https://devc.vercel.app
 - 💞️ I just want to learn and grow
 - 📫 You can reach me at Chulocr8v@gmail.com
 <!---
