@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nkematu Bonaventure.
-- 🛄 I am a fullstack developer currently working with TailwindCss, Sass, JavaScript, React.js, Next.js, Node.js, Express.js. 
+- 🛄 I am a frontend developer currently working with TailwindCss, Sass, JavaScript, React.js, Next.js, Node.js, Express.js. 
 - 👀 I’m a always exploring new tech and possibilities.
 - 🌱 You can check out my portfolio site at https://cdev.vercel.app.
 - 💞️ I want to build scalable apps that provide value to individuals and businesses.
