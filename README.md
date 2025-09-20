@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Nkematu Bonaventure 👋</h1>
 
 <p align="center">
-  Full Stack Developer | Clean UI Advocate | Tech Explorer
+ Senior Frontend Developer
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 ### 👨‍💻 About Me
 
-- 🧑‍💻 I’m a **Full Stack Developer** passionate about building high-performance, scalable web apps with modern UI/UX.
+- 🧑‍💻 I’m a **Frontend Developer** passionate about building high-performance, scalable web apps with modern UI/UX.
 - 🔧 I build with **React**, **Next.js**, **NestJS**, **Prisma**, and databases like **PostgreSQL** and **MongoDB**.
 - 🎯 Clean code. Smooth UX. Real-world impact.
 - 🌍 Always learning, always building, always leveling up.
