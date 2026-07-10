@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Nkematu Bonaventure 👋</h1>
 
 <p align="center">
- Senior Frontend Developer
+  <b>Senior Full-Stack Product Engineer | Building SaaS & Enterprise Applications</b>
 </p>
 
 <p align="center">
@@ -18,43 +18,119 @@
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🧑‍💻 I’m a **Frontend Developer** passionate about building high-performance, scalable web apps with modern UI/UX.
-- 🔧 I build with **React**, **Next.js**, **NestJS**, **Prisma**, and databases like **PostgreSQL** and **MongoDB**.
-- 🎯 Clean code. Smooth UX. Real-world impact.
-- 🌍 Always learning, always building, always leveling up.
+I am a **product-focused Full-Stack Engineer** who enjoys taking ideas from concept to production.
+
+I build scalable web applications, SaaS products, and enterprise platforms using:
+
+- React
+- TypeScript
+- Next.js
+- NestJS
+- PostgreSQL
+- Prisma
+- Cloud technologies
+
+My experience covers:
+
+- Frontend architecture
+- Backend API development
+- Database design
+- System architecture
+- Cloud deployment
+- Production maintenance
+- Technical leadership
+
+I have worked on enterprise solutions across workflow automation, employee management, service management, and business process digitization — helping organizations replace manual processes with reliable software systems.
 
 ---
 
-### 🧰 Tech Stack
+## 🚀 Products & Projects
 
-**Frontend**  
+### 🔐 Qikenv
+Secure environment variable management platform for development teams.
+
+- Helps teams manage sensitive configuration securely
+- Reduces the risk of exposing credentials through unsafe sharing methods
+- Built with a focus on security and developer experience
+
+
+### 🤖 Qikagenda
+AI-powered meeting management platform.
+
+Features include:
+- AI-generated meeting agendas
+- Meeting collaboration workflows
+- Meeting documentation
+- Automated follow-ups
+
+
+### 📰 Qikbot
+AI content automation platform.
+
+Features include:
+- RSS feed integration
+- AI-powered content generation
+- Automated publishing workflows
+- Custom AI writing personalities
+
+
+### 🌍 OSSyard
+Open-source discovery platform for developers.
+
+Helps developers discover relevant open-source projects based on:
+- GitHub activity
+- Technical skills
+- Areas of interest
+
+---
+
+## 🧰 Tech Stack
+
+### Frontend
+
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js)
 
-**Backend & Tools**  
+
+### Backend & Database
+
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Other Tools**  
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+
+### Cloud & Engineering Tools
+
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-### 📊 GitHub Insights
+## 🧠 Engineering Philosophy
+
+I believe great software is built through:
+
+- Understanding the real problem before writing code
+- Designing simple and maintainable systems
+- Building reliable products users can depend on
+- Continuous improvement through feedback
+
+I don't just build features — I build solutions that create measurable impact.
+
+---
+
+## 📊 GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ChuloCr8v&show_icons=true&hide=issues&count_private=true&theme=tokyonight&border_radius=10" width="48%" />
@@ -67,10 +143,12 @@
 
 ---
 
-### 🌐 Let’s Connect
+## 🌐 Let's Connect
 
-- 🌐 Portfolio: [cleverdeveloper360.vercel.app](https://cleverdeveloper360.vercel.app)
-- 📫 Email: [Chulocr8v@gmail.com](mailto:Chulocr8v@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/bonaventure-nkematu-77b563148](https://www.linkedin.com/in/bonaventure-nkematu-77b563148/)
+- 🌐 Portfolio: https://cleverdeveloper360.vercel.app
+- 📫 Email: Chulocr8v@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/bonaventure-nkematu-77b563148/
 
 ---
+
+⭐ Building products. Solving problems. Scaling systems.
